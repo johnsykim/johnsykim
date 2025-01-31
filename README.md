@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm John Sangyeob Kim</h1>
-<h3 align="center">A computer science masters student at the University of Chicago</h3>
 
-- 🔭 **I recently interned at Amazon Web Services (AWS). My project was on upgrading the Lambda memory limit update process so that 1M customers worldwide can view real-time quotas on user console.**
-
-- 🌱 I’m currently learning Distributed Systems **and fidgeting with 3D printing.**
+- 🔭 **I work as a Software Development Engineer at AWS Lambda. I've worked on Lambda Control Plane Service (think of CRUDL APIs) and Lambda Stream Poller (Event Source Mapping between Kinesis/DynamoDB Streams and Lambda Functions).**
 
 - ⚡ Fun fact: **As a certified junior sommelier, I host monthly wine meet-ups in my community.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/johnsykim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnsykim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sangyeob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangyeob" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
